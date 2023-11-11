@@ -319,13 +319,8 @@ Requirements:
 1.	Feature Requests: A process shall be in place to collect and prioritize user feedback and feature requests for future enhancements.
 2.	New Feature Development: The development team shall plan and implement new features based on user demand and market trends.
 
-- **Muthuraj M**
-  - GitHub: [@Muthuraj](https://github.com/Muthurajkrishna)
-
-- **Nedunchezhian M**
-  - GitHub: [@Nedunchezhian M](https://github.com/nedunchezhianm)
-
-- **Ajith R**
-  - GitHub: [@Ajith](https://github.com/AjithRagupathi)
-- **Kamaleshwarn K**
-  - GitHub: [@Kamaleshwaran](https://github.com/)
+- **Muthuraj M** 	- GitHub: [@Muthuraj](https://github.com/Muthurajkrishna)
+- **Nedunchezhian M** 	- GitHub: [@Nedunchezhian M](https://github.com/nedunchezhianm)
+- **Ajith R** 		- GitHub: [@Ajith](https://github.com/AjithRagupathi)
+- **Kamaleshwarn K** 	- GitHub: [@Kamaleshwaran](https://github.com/kamalesh26)
+ 
