@@ -19,6 +19,7 @@ Academic Year: 2023-2024
 Department: Computer Science and
       Engineering
 1. Introduction
+
 1.1 Purpose
 	The main objective of this document is to illustrate the requirements of the project blog website. The document gives the detailed description of both functional and non-functional requirements proposed by the client. The purpose of this project is to provide a friendly environment to blog for the peoples. The main purpose to this project is to maintain connection between the blogger and the people to ensure the both of them into blogging. This project describes the hardware and software interface requirements using ER diagrams and UML diagrams.
 1.2 Scope and Development of Project
@@ -67,15 +68,6 @@ Security Standards:
 
 2. Overall Descriptions
 2.1 Product Perspective
-                                
-Fig 1: Use Case Diagram
-2.2 Product Function
-                          
-Fig 2: Entity Relationship Diagram
-2.3 Class Diagram
-                        
-Fig 3: Class Diagram
-
 2.4 User Classes and Characteristics
 The system provides different types of services based on the type of users.
 1.	Registered Use: Individuals who have created accounts on the platform.
