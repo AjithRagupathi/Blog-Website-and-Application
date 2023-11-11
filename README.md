@@ -318,3 +318,9 @@ Requirements:
 9.2 Feature Enhancements
 1.	Feature Requests: A process shall be in place to collect and prioritize user feedback and feature requests for future enhancements.
 2.	New Feature Development: The development team shall plan and implement new features based on user demand and market trends.
+
+- **Muthuraj M**
+  - GitHub: [@johndoe](https://github.com/Muthurajkrishna)
+
+- **Nedunchezhian M**
+  - GitHub: [@janesmith](https://github.com/nedunchezhianmuthusamy)
