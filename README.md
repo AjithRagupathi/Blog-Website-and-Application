@@ -320,7 +320,12 @@ Requirements:
 2.	New Feature Development: The development team shall plan and implement new features based on user demand and market trends.
 
 - **Muthuraj M**
-  - GitHub: [@johndoe](https://github.com/Muthurajkrishna)
+  - GitHub: [@Muthuraj](https://github.com/Muthurajkrishna)
 
 - **Nedunchezhian M**
-  - GitHub: [@janesmith](https://github.com/nedunchezhianmuthusamy)
+  - GitHub: [@Nedunchezhian M](https://github.com/nedunchezhianm)
+
+- **Ajith R**
+  - GitHub: [@Ajith](https://github.com/AjithRagupathi)
+- **Kamaleshwarn K**
+  - GitHub: [@Kamaleshwaran](https://github.com/)
